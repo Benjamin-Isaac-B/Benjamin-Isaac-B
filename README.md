@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Welcome to my B-floor - the space where  II keep things that are part of my current worldview/understanding - which I am able to build from. I have yet to put much here - most things are still trickling down from A status, which is the category of "new insights I'm assimilating." I"m going to properly link this to long-term, short-term, and consolidated memory as discussed [here](https://everydaypsy.com/article/understanding-the-different-types-of-memory-short-term-long-term-and-working-memory/#understanding-long-term-memory) at some point.
+
+I am a member of [ORI](https://openresearchinstitute.org/actual) - which is the source of the [A/B/U system](https://openresearchinstitute.org/onboarding/A_B_U.html) (why I say things like 'B-floor').
+
+
+
 <!--
 **Benjamin-Isaac-B/Benjamin-Isaac-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
